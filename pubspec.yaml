@@ -1,6 +1,6 @@
 name: indonesian_address_picker
 description: Modern Indonesian address/region picker with province, city, district, and village data. Searchable, customizable, and offline-first.
-version: 0.1.2
+version: 0.1.3
 repository: https://github.com/donisettt/indonesian_address_picker
 issue_tracker: https://github.com/donisettt/indonesian_address_picker/issues
 
