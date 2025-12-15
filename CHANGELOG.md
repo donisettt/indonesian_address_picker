@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1.1
 
 - Initial public release
 - Indonesian address picker with province, city, district, and village
