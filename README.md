@@ -54,11 +54,10 @@ Perfect for e-commerce, delivery apps, forms, and any application requiring Indo
 ## Screenshots
 
 ### Individual Picker
-![Individual Picker](screenshot/individual.png)
+![Individual Picker](https://raw.githubusercontent.com/donisettt/indonesian_address_picker/main/screenshot/individual.png)
 
 ### Cascade Picker
-![Cascade Picker](screenshot/cascade.png)
-
+![Cascade Picker](https://raw.githubusercontent.com/donisettt/indonesian_address_picker/main/screenshot/cascade.png)
 
 ---
 
