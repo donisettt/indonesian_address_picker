@@ -54,8 +54,8 @@ Perfect for e-commerce, delivery apps, forms, and any application requiring Indo
 ## Screenshots
 
 <p float="left">
-  <img src="screenshoot/individual.png" width="200" />
-  <img src="screenshoot/cascade.png" width="200" />
+  <img src="screenshot/individual.png" width="200" />
+  <img src="screenshot/cascade.png" width="200" />
 </p>
 
 ---
