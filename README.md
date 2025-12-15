@@ -53,10 +53,12 @@ Perfect for e-commerce, delivery apps, forms, and any application requiring Indo
 
 ## Screenshots
 
-<p float="left">
-  <img src="screenshot/individual.png" width="200" />
-  <img src="screenshot/cascade.png" width="200" />
-</p>
+### Individual Picker
+![Individual Picker](screenshot/individual.png)
+
+### Cascade Picker
+![Cascade Picker](screenshot/cascade.png)
+
 
 ---
 
